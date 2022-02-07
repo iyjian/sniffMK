@@ -11,7 +11,7 @@
 //
 //   or ...
 //
-//   b) $ clang -o sniffMK sniffMK.m -framework Cocoa -framework Carbon
+//   b) $ clang -o bin/sniffMK sniffMK/sniffMK.m -framework Cocoa -framework Carbon
 //
 //   Run (as root):
 //   # ./sniffMK
